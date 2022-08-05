@@ -24,7 +24,7 @@ GreenHive is a community-based environmentalist sanctuary where people can get t
 ## Website
  https://greenhive-com.herokuapp.com/
 ## Install
- To install this project into your own, use git clone <REPONAME> in your command-line, then npm init to install the listed dependencies. 
+ To install this project into your own, use "git clone <REPONAME>" in your command-line, then npm init to install the listed dependencies. 
 ## Images
 ![home](https://user-images.githubusercontent.com/93412486/170847997-82edcdc1-b936-46a2-92df-85415382d767.PNG)
 
