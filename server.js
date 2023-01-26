@@ -66,7 +66,7 @@ const helpers = require('./utils/helpers');
 /* App Set-Up and Middleware */
 /* ------------------------- */
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3001;
 const DB_RESET_ON_LOAD = process.env.DB_RESET_ON_LOAD === 'true';
 const DB_SEED_ENABLED = process.env.DB_SEED_ENABLED === 'true';
 
